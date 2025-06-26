@@ -1,5 +1,5 @@
 # DSA-Implementation
 
-- [x] Queue
+- [X] Queue
 - [x] Stack
 - [x] Vector (Only STL)
