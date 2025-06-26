@@ -3,3 +3,4 @@
 ✅ Queue
 ✅ Stack
 ✅ Vector (Only STL)
+✅ LinkedList
